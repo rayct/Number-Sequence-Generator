@@ -1,0 +1,66 @@
+Seed: 11
+Generated sequence: 35 59 43 11 13 15 89 91 61 62 31
+
+Seed: 11
+Generated sequence: 97 67 37 11 44 45 79 15 20 92 61
+
+Seed: 11
+Generated sequence: 0 34 10 11 48 83 22 25 91 93 57
+
+Seed: 11
+Generated sequence: 2 67 11 46 14 17 93 21 60 63 95
+
+Seed: 11
+Generated sequence: 96 33 34 10 11 46 14 80 89 93 94
+
+Seed: 11
+Generated sequence: 66 35 5 11 47 80 50 84 52 88 63
+
+Seed: 11
+Generated sequence: 68 11 76 12 46 15 17 84 87 26 30
+
+Seed: 11
+Generated sequence: 0 33 99 38 70 11 76 43 82 86 22
+
+Seed: 11
+Generated sequence: 98 11 12 43 83 88 25 58 91 62 95
+
+Seed: 11
+Generated sequence: 1 68 5 11 12 13 44 16 52 85 59
+
+Seed: 11
+Generated sequence: 1 10 11 16 18 83 84 85 25 27 30
+
+Seed: 11
+Generated sequence: 32 96 98 35 74 11 17 82 21 25 61
+
+Seed: 11
+Generated sequence: 66 37 6 11 78 47 54 87 56 25 61
+
+Seed: 11
+Generated sequence: 96 2 67 69 37 41 11 76 84 29 63
+
+Seed: 11
+Generated sequence: 96 68 69 5 11 80 50 82 30 94 95
+
+Seed: 11
+Generated sequence: 37 7 11 60 83 52 23 57 27 28 29
+
+Seed: 11
+Generated sequence: 35 69 39 59 11 31 83 88 27 28 63
+
+Seed: 11
+Generated sequence: 99 68 5 73 10 11 78 51 23 54 87
+
+Seed: 14
+Generated sequence: 98 39 72 11 75 14 48 17 20 86 23
+
+Seed: 14
+Generated sequence: 1 36 6 14 19 83 21 94 27 28 30
+
+Seed: 14
+Generated sequence: 96 97 1 40 9 12 14 15 51 87 62
+
+Seed: 14
+Generated sequence: 0 33 69 71 45 14 77 16 85 53 31
+

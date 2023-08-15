@@ -1,0 +1,12 @@
+Seed: 11
+Generated sequence: 11 29 46 75 26 98 95 38 12 4 42
+
+Seed: 11
+Generated sequence: 11 64 90 67 97 40 45 67 76 21 15
+
+Seed: 11
+Generated sequence: 11 14 7 61 76 48 67 66 21 84 96
+
+Seed: 11
+Generated sequence: 11 48 47 45 5 55 98 85 13 49 14
+
