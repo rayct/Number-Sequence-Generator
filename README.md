@@ -1,4 +1,4 @@
-# Number Sequence Generator v1.0.0
+# Number Sequence Generator v1.0.0-beta
 ## Developed by: Raymond C. TURNER
 
 The Number Sequence Generator is a Python application that allows users to generate unique number sequences based on a seed number. It provides a graphical user interface (GUI) built using the tkinter library.
@@ -12,7 +12,7 @@ The Number Sequence Generator is a Python application that allows users to gener
 
 ## Table of Contents
 
-- [Number Sequence Generator v1.0.0](#number-sequence-generator-v100)
+- [Number Sequence Generator v1.0.0-beta](#number-sequence-generator-v100-beta)
   - [Developed by: Raymond C. TURNER](#developed-by-raymond-c-turner)
   - [Features](#features)
   - [Table of Contents](#table-of-contents)
