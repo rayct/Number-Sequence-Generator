@@ -68,8 +68,9 @@ This application is distributed under the [MIT License](LICENSE). You are free t
 ---
 
 For support or inquiries, please contact the developer:  
-Raymond C. TURNER  
-Website: [codestak.io](https://codestak.io)
+- Developer: Raymond C. TURNER
+- Website: [codestak.io](https://codestak.io)
+- Email: [support@codestak.io](mailto:support@codestak.io)
 
 
 Documentation by: **Raymond C. TURNER**
