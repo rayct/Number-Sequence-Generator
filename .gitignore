@@ -1,5 +1,6 @@
 .DS_Store
 num-seq-gen_venv
+numgen_venv
 system-notes.md
 new-features-list.md
 dist
