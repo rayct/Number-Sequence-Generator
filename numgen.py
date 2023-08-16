@@ -69,8 +69,8 @@ current_theme = "light"  # Default theme is light
 
 def generate_numbers(seed):
     numbers = {seed}
-    while len(numbers) < 11:  # Generate 10 unique numbers
-        next_number = random.randint(0, 99)  # Generate a random number between 0 and 99
+    while len(numbers) < 7:  # Generate 6 unique numbers
+        next_number = random.randint(0, 30)  # Generate a random number between 0 and 30
         numbers.add(next_number)
     return list(numbers)
 
