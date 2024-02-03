@@ -177,10 +177,10 @@ def show_about_window():
 root = tk.Tk()
 
 # Set a custom icon for the main window
-icon_path = (
-    "path_to_your_icon_file.ico"  # Replace with the actual path to your icon file
-)
-root.iconbitmap(icon_path)
+# icon_path = (
+#     "path_to_your_icon_file.ico"  # Replace with the actual path to your icon file
+# )
+# root.iconbitmap(icon_path)
 
 # Create a themed style
 style = ThemedStyle(root)
