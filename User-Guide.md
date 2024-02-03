@@ -112,7 +112,7 @@ The application's user interface consists of several elements:
 ### Application Information
 
 - Application Name: Number Sequence Generator
-- Version: 1.0.0
+- Version: 1.0.0-beta
 - Release Date: August 16, 2023
 
 ### Developer Contact
