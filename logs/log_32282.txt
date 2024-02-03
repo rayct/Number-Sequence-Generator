@@ -1,9 +1,0 @@
-Seed: 12
-Generated sequence: 64 72 10 12 47 81 82 17 88 89 26
-
-Seed: 12
-Generated sequence: 32 97 5 9 12 21 86 54 24 90 62
-
-Seed: 12
-Generated sequence: 1 39 12 44 50 53 22 56 57 88 25
-

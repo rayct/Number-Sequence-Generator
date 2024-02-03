@@ -1,6 +1,0 @@
-Seed: 11
-Generated sequence: 97 66 41 74 11 16 83 21 85 89 59
-
-Seed: 11
-Generated sequence: 64 33 66 96 68 11 61 54 86 29 31
-
