@@ -1,0 +1,33 @@
+Seed: 11
+Generated sequence: 6 8 9 11 14 20 28
+
+Seed: 11
+Generated sequence: 0 7 11 12 20 22 23
+
+Seed: 11
+Generated sequence: 1 2 11 19 26 27 30
+
+Seed: 11
+Generated sequence: 2 3 8 11 18 24 29
+
+Seed: 11
+Generated sequence: 0 6 7 8 11 25 27
+
+Seed: 11
+Generated sequence: 1 9 10 11 15 21 25
+
+Seed: 11
+Generated sequence: 8 11 13 16 20 22 30
+
+Seed: 11
+Generated sequence: 4 8 11 15 25 28 29
+
+Seed: 11
+Generated sequence: 2 6 10 11 23 26 28
+
+Seed: 11
+Generated sequence: 6 7 8 11 16 19 21
+
+Seed: 11
+Generated sequence: 0 9 11 13 21 25 28
+
