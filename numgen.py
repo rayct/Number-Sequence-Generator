@@ -1,4 +1,4 @@
-# Number Sequence Generator v1.0.0-beta
+# Number Sequence Generator v0.0.23
 # Date: 16-08-2023
 # Developed by: Raymond C. TURNER
 
