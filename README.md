@@ -69,12 +69,12 @@ This application is distributed under the [MIT License](LICENSE). You are free t
 
 For support or inquiries, please contact the developer:  
 - Developer: Raymond C. TURNER
-- Website: [codestak.io](https://codestak.io)
-- Email: [support@codestak.io](mailto:support@codestak.io)
+<!-- - Website: [codestak.io](https://codestak.io) -->
+- Email: [codestak@proton.me](mailto:codestak@proton.me)
 
 
 ---
 
 Documentation by: **Raymond C. TURNER**
 
-**Revison:** September 25th, 2024
+**Revison:** November 12th, 2024
