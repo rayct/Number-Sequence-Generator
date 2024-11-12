@@ -168,7 +168,7 @@ def clear_log_file():
 def show_about_window():
     about_window = tk.Toplevel(root)
     about_window.title("About")
-    about_text = "Number Sequence Generator\n\nVersion: 1.0-beta\n\nDate: 16-08-2023\n\nPython 3.10.8\n\nttkthemes 3.2.2\n\nTcl/TK version 8.6\n\nDeveloped By: codestak.io\n\nAuthor: Raymond C. TURNER\n\nDescription: This application generates unique number sequences based on a seed number."
+    about_text = "Number Sequence Generator\n\nVersion: 0.0.1-beta\n\nDate: 16-08-2023\n\nPython 3.10.8\n\nttkthemes 3.2.2\n\nTcl/TK version 8.6\n\nDeveloped By: codestak.io\n\nAuthor: Raymond C. TURNER\n\nDescription: This application generates unique number sequences based on a seed number."
     about_label = tk.Label(about_window, text=about_text, padx=20, pady=20)
     about_label.pack()
     
